@@ -14,9 +14,8 @@ Beyond this point, their behavior is defined by the `force matrix` up to the max
 Feel free to explore the code and experiment with different parameters, but I recommend focusing on the `force matrix` values to see how they affect the overall behavior.
 
 ---
-## 📸 Examples
+## 📸 Example
 
-### Animation
 ![Particle Simulation](Sim-gif.gif)
 
 
