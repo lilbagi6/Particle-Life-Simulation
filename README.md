@@ -17,7 +17,7 @@ Feel free to explore the code and experiment with different parameters, but I re
 ## 📸 Examples
 
 ### Animation
-![Particle Simulation](Sim-gif)
+![Particle Simulation](Sim-gif.gif)
 
 
 ---
